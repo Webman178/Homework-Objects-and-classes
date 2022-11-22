@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         String firstBook = "Harry Potter and the Philosophers Stone";
         String secondBook = "Alice in Wonderland";
-
         String firstAuthor = "Rowling Joanne";
         String secondAuthor = "Lewis Carrol";
 
